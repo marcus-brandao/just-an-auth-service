@@ -25,4 +25,4 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 ```
-After executing the commands, you can access the server at [http://localhost:3001](http://localhost:3001), by the endpoints listed on the documentation.
+After executing the commands, you can access the server at [http://localhost:3001](http://localhost:3001), by the endpoints listed on the [documentation](https://github.com/marcus-brandao/just-a-calculator/blob/main/just-a-calculator-documentation.pdf).
